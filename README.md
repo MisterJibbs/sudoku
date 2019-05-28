@@ -8,4 +8,4 @@ This program requires the Colorize string extension by fazibear.
 You can download that using 'gem install colorize' in your terminal.
 fazibear's Colorize: https://github.com/fazibear/colorize
 
-To play the game, run play_sudoku.rb
+To play the game, run 'play_sudoku.rb'
